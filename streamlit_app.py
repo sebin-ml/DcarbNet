@@ -6,6 +6,7 @@ import numpy as np
 st.title("DcarbNet: 2D Material Screening for H₂ Storage and CO₂ Capture")
 
 st.markdown("### Enter Material Features")
+st.markdown("####### Dr. Sebin Devasia")
 surface_area = st.number_input("Surface Area (m²/g)", min_value=0.0, max_value=5000.0, value=1000.0)
 bandgap = st.number_input("Bandgap (eV)", min_value=0.0, max_value=5.0, value=1.2)
 
