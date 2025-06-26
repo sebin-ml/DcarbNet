@@ -1,6 +1,6 @@
 <h1>
 <p align="center">
-    <img src="" alt="MatterGen logo" width="600"/>
+    <img src="src/dcarbnet.png" alt="DcarbNet logo" width="600"/>
 </p>
 </h1>
 
